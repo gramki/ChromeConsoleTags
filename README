@@ -1,0 +1,16 @@
+
+
+///////////////////////////////////////////////////////////////
+//  Append this file to the contents of 
+//  %GoogleChromeInstallationDir%/Application/%Version%/Resources/Inspector/DevTools.js
+//  to have support for tags on console messages.
+//
+//  You can view/hide messages based on the tags.
+//
+//  Text in a log message with-in '::' will be treated as a tag.
+//  For example, in the message   
+//      ::History:: Failed to contact server
+//  ::History:: is a tag. 
+////////////////////////////////////////////////////////////////
+
+
