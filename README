@@ -1,9 +1,9 @@
 
 
 ///////////////////////////////////////////////////////////////
-//  Append this file to the contents of 
+//  Append ConsoleCustomization.js to 
 //  %GoogleChromeInstallationDir%/Application/%Version%/Resources/Inspector/DevTools.js
-//  to have support for tags on console messages.
+//  to get support for tags in console messages.
 //
 //  You can view/hide messages based on the tags.
 //
